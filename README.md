@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=copcrush&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
 <a href="https://www.instagram.com/copcrush/">Click Me</a>
 
 
