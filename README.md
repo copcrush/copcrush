@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=copcrush&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,json,postgresql)](https://github.com/Jurredr/github-widgetbox)
 
-<a href="https://www.instagram.com/copcrush/">Click Me</a>
+Contact Me
+<a href="https://www.instagram.com/copcrush/"><strong>Instagram</strong></a>
+<a href="https://www.facebook.com/navaphan.singkaew/"><strong>Facebook</strong></a>
+<a href="https://www.linkedin.com/in/navaphan-singkaew-bb9575240/"><strong>Facebook</strong></a>
 
 
 **copcrush/copcrush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
