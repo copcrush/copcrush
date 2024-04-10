@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,postgresql,mongodb,express,react,node)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,html,css,postgresql,mongodb,react,node)](https://github.com/Jurredr/github-widgetbox)
 
 Contact Me
 <a href="https://www.instagram.com/copcrush/"><strong>Instagram</strong></a>
