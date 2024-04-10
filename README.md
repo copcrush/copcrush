@@ -2,7 +2,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=copcrush&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,json,postgresql,mysql,powershell,visualbasic)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,json,postgresql)](https://github.com/Jurredr/github-widgetbox)
 
 <a href="https://www.instagram.com/copcrush/">Click Me</a>
 
