@@ -3,7 +3,7 @@ I'm Navaphan Singkaew
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=copcrush&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/copcrush/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,php,python,html,css,postgresql)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,postgresql)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,bootstrap,tailwind,express)](https://github.com/Jurredr/github-widgetbox)
 
