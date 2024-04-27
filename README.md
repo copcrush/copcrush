@@ -38,8 +38,7 @@ I'm Looking for a Full Stack Developer job.
 <br /><br />
 <img src="https://github.com/copcrush/copcrush/assets/140819697/36ada26b-23b6-4706-b1bb-95e4cbfa207a" width="100%" align="center">
 
-
-
+<br /><br /><br />
 
 <b>Top Repositories</b>
 
