@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Navaphan Singkaew
 =========================================================================================================================================
 
-Full Stack Developer
+I'm Looking for a Full Stack Developer job.
 --------------------
 
 👋 Hey there! I'm Navaphan Singkaew, so you can call me "Copcrush", a seasoned Structural Engineer who leaped into the dynamic world of Full Stack Development through an intensive one-year Bootcamp. With a solid foundation in problem-solving and analytical skills honed through years of engineering practice, I've seamlessly transitioned into crafting robust and elegant digital solutions. 💻 Armed with a passion for innovation and a hunger for learning, I've embraced the challenge of mastering the entire spectrum of web development, from front-end design to back-end logic. My GitHub repository is a testament to my journey, showcasing a diverse portfolio of projects that demonstrate my proficiency in languages like JavaScript, HTML, CSS, and frameworks such as React, Node.js, and Express. 🌟 What sets me apart is my unique blend of engineering precision and creative flair. Drawing on my experience in structural analysis and design, I bring meticulous attention to detail to every line of code I write, ensuring that my applications are not only visually stunning but also built on a foundation of reliability and scalability. 🔍 Whether it's building intuitive user interfaces, optimizing database performance, or architecting complex systems, I thrive on the challenge of pushing the boundaries of what's possible in the digital realm. I'm eager to collaborate with like-minded individuals and organizations to create impactful solutions that make a difference. 🚀 Ready to embark on the next chapter of my career as a Full Stack Developer, I'm excited to contribute my skills and expertise to innovative projects that shape the future of technology. Let's connect and build something amazing together!
@@ -32,6 +32,15 @@ Full Stack Developer
 
 <a href="https://github.com/copcrush" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=copcrush&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Full Stack Bootcamp Certificate</b>
+
+<img src="https://github.com/copcrush/copcrush/assets/140819697/920486e5-bcfa-4e7c-96f3-f46451411b5d" width="100%" align="center">
+<br /><br />
+<img src="https://github.com/copcrush/copcrush/assets/140819697/36ada26b-23b6-4706-b1bb-95e4cbfa207a" width="100%" align="center">
+
+
+
+
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/copcrush/copcrush-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=copcrush&repo=copcrush-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/copcrush/pokedex-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=copcrush&repo=pokedex-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
@@ -39,3 +48,4 @@ Full Stack Developer
 <br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/copcrush/forecasty-weather-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=copcrush&repo=forecasty-weather-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/copcrush/chewblogs" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=copcrush&repo=chewblogs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
