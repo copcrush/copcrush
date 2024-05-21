@@ -45,6 +45,10 @@ I'm Looking for a Software Engineer, Frontend and Full Stack job.
       <td><img src="https://github.com/copcrush/copcrush/assets/140819697/ea3d93b5-a603-4a52-bce2-9a329c58a26a" width="500""></td>
     </tr>
     <tr>
+      <td><img src="https://github.com/copcrush/copcrush/assets/140819697/5abd5eab-48aa-4b94-8415-4b287804bf74" width="500""></td>
+      <td><img src="https://github.com/copcrush/copcrush/assets/140819697/2cf5e96d-c071-4ab7-b151-cbddb931c523" width="500""></td>
+    </tr>
+    <tr>
       <td colspan="2" align="center"><img src="https://github.com/copcrush/copcrush/assets/140819697/0ab13695-222e-483b-8219-fbadf1256eb9" width="500""></td>
     </tr>
   </table>
