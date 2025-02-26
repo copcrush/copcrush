@@ -1,10 +1,24 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Navaphan Singkaew
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Navaphan Singkaew
 =========================================================================================================================================
 
 I'm Full Stack Developer
 --------------------
 
-👋 Hey there! I'm Navaphan Singkaew, so you can call me "Copcrush", a seasoned Structural Engineer who leaped into the dynamic world of Full Stack Development through an intensive one-year Bootcamp. With a solid foundation in problem-solving and analytical skills honed through years of engineering practice, I've seamlessly transitioned into crafting robust and elegant digital solutions. 💻 Armed with a passion for innovation and a hunger for learning, I've embraced the challenge of mastering the entire spectrum of web development, from front-end design to back-end logic. My GitHub repository is a testament to my journey, showcasing a diverse portfolio of projects that demonstrate my proficiency in languages like JavaScript, HTML, CSS, and frameworks such as React, Node.js, and Express. 🌟 What sets me apart is my unique blend of engineering precision and creative flair. Drawing on my experience in structural analysis and design, I bring meticulous attention to detail to every line of code I write, ensuring that my applications are not only visually stunning but also built on a foundation of reliability and scalability. 🔍 Whether it's building intuitive user interfaces, optimizing database performance, or architecting complex systems, I thrive on the challenge of pushing the boundaries of what's possible in the digital realm. I'm eager to collaborate with like-minded individuals and organizations to create impactful solutions that make a difference. 🚀 Ready to embark on the next chapter of my career as a Full Stack Developer, I'm excited to contribute my skills and expertise to innovative projects that shape the future of technology. Let's connect and build something amazing together!
+👋 Hey there! I'm Navaphan Singkaew, but you can call me "Copcrush".
+
+I'm a Full Stack Developer with a background in Structural Engineering, who made the leap into web development through an intensive Full-Stack Bootcamp. With a strong foundation in problem-solving, analytical thinking, and system design, I specialize in building scalable, maintainable web applications that prioritize both performance and user experience.
+
+💻 Tech Stack & Expertise:
+
+Frontend: React.js, Next.js, Vue.js, Nuxt.js, Tailwind CSS, SCSS
+Backend: Node.js, Nest.js, RESTful APIs, PostgreSQL, MongoDB, MySQL
+Tools & DevOps: Docker, Kubernetes, GitHub Actions
+Development Practices: Agile (Scrum), Code Reviews, Performance Optimization
+🌟 What Sets Me Apart?
+With my engineering precision and passion for clean, scalable code, I approach development with meticulous attention to detail—whether it’s optimizing UI performance, refining database queries, or designing reusable components. I'm also continuously learning new technologies, currently exploring Nest.js, Chakra UI, and software testing to further enhance my development workflow.
+
+🚀 Let's Build Something Amazing!
+I’m eager to collaborate on challenging projects, contribute to innovative solutions, and grow alongside like-minded developers. Check out my GitHub repositories to see my work, and feel free to connect!
 
 * 🌍  I'm based in Bangkok/Thailand
 * ✉️  You can contact me at [navaphan.si@gmail.com](mailto:navaphan.si@gmail.com)
